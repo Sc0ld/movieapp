@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "539561082319",
+    "project_id": "moive-71e40",
+    "storage_bucket": "moive-71e40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539561082319:android:06b3203a756e3e323566ba",
+        "android_client_info": {
+          "package_name": "com.example.moiveapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539561082319-fci78l6tki94q6h2oeg20e1h2a4r6inl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuDjv57srYuAfNaO_GFzJInFA9uuJ5-Zc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539561082319-fci78l6tki94q6h2oeg20e1h2a4r6inl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
